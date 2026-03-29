@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Sensitive files
+*.pem
+*.key
+*.crt
